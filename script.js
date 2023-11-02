@@ -10,7 +10,7 @@ switch (new Date().getMonth()) {
         mymonth = "January";
         break;
     case 1:
-        mymonth = "Febuarery";
+        mymonth = "February";
         break;
     case 2:
         mymonth = "March";
@@ -55,13 +55,13 @@ switch (new Date().getDay()) {
         days = "Monday";
         break;
     case 2:
-        days = "Tuseday";
+        days = "Tuesday";
         break;
     case 3:
-        days = "Wednessday";
+        days = "Wednesday";
         break;
     case 4:
-        days = "Thrusday";
+        days = "Thursday";
         break;
     case 5:
         days = "Friday";
