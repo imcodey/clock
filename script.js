@@ -97,8 +97,8 @@ else if(day>=12 && day<= 13){
     document.getElementById("clock").classList.add("midday")
 }
 else if(day>=13 && day<= 17){
-    document.getElementById("clock").classList.add("afternoon")
+    document.getElementById("clock").classList.add("evening")
 }
 else if(day>=17 && day<= 21){
-    document.getElementById("clock").classList.add("evening")
+    document.getElementById("clock").classList.add("afternoon")
 }
